@@ -8,3 +8,5 @@ description: "Updates on my projects."
 
 # Build settings
 remote_theme: jekyll/cayman
+
+theme: jekyll-theme-cayman
