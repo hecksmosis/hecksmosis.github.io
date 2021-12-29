@@ -1,5 +1,10 @@
 baseurl: /
+# Site settings
+title: 
+author:
+  name: Hecksmosis
+  email: pgruiz727@gmail.com
+description: "Updates on my projects."
 
-theme: jekyll-theme-cayman
-title: Hecksmosis
-description: Keep an eye on this page to know what I am doing!
+# Build settings
+remote_theme: jekyll/cayman
