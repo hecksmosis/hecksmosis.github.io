@@ -1,2 +1,2 @@
-# hecksmosis.github.io
-My github webpage repository.
+# My projects
+- Image Recognition AI using Python
